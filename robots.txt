@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yuwoqoqe.github.io/sitemap/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/YJa/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/GSH/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/XSq/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/MoO/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/FAB/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/OdP/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/GUd/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/vJU/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/UhG/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/iHd/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/FAn/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/oUJ/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/LKN/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/bEN/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/gkf/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/XlL/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/Dhq/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/mRS/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/eZI/sitemap_index.yuwoqoqe
+Sitemap: https://yuwoqoqe.github.io/NMB/sitemap_index.yuwoqoqe
